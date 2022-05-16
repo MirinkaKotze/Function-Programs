@@ -1,6 +1,8 @@
 # Function-Programs
 Beetroot Academy - Lesson 28
 
+Live Page URL: https://mirinkakotze.github.io/Function-Programs/
+
 1. Write a function that accepts 2 numbers and returns -1 if the first one is smaller than the second, 1 if it is vice versa, and 0 if they are equal.
 2. Write a function that counts the factorial of a given number. 
 3. Write a function that accepts three separate digits and makes them a number. For example, 1, 4, and 9 will become 149.
